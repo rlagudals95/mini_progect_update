@@ -4,7 +4,7 @@
 http://finddog.mini.s3-website.ap-northeast-2.amazonaws.com/
 
 ## 소개 유튜브 영상
-
+https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 
 ## 개발 기간
 + 2021년 4월 8일 ~ 2021년 4월 22일
@@ -24,6 +24,7 @@ http://finddog.mini.s3-website.ap-northeast-2.amazonaws.com/
   + 임다희
   + 김동현
   + 강미진
-  + Source (해당 주소에서 확인이 가능합니다)
-    + 백엔드팀 깃허브 url 입력
+  + 백엔드 깃허브 주소
+   https://github.com/DongHyunKIM-Hi/find_dog
+    
 
