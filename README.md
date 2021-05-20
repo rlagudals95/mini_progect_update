@@ -44,12 +44,20 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 </br>
 
 + 메인페이지
++ </br>
 ![image](https://user-images.githubusercontent.com/76252074/118900919-0c01d880-b94d-11eb-98c0-576f088b89ed.png)
-![image](https://user-images.githubusercontent.com/76252074/118900936-1623d700-b94d-11eb-9b90-897b05566ee1.png)
++ MBTI검사하기
++ </br>
 ![image](https://user-images.githubusercontent.com/76252074/118900948-1b812180-b94d-11eb-9d2f-bd7f5753486c.png)
++ 나를보개(보호중인 유기견들)
++ </br>
+![image](https://user-images.githubusercontent.com/76252074/118900963-2471f300-b94d-11eb-86fe-30e0b493e4b0.png)
++ 자랑하개(커뮤니티)
++ </br>
+![image](https://user-images.githubusercontent.com/76252074/118900936-1623d700-b94d-11eb-9b90-897b05566ee1.png)
 ![image](https://user-images.githubusercontent.com/76252074/118900957-1e7c1200-b94d-11eb-82db-8483a53e0725.png)
 ![image](https://user-images.githubusercontent.com/76252074/118900973-28057a00-b94d-11eb-95ce-94979a49db94.png)
-![image](https://user-images.githubusercontent.com/76252074/118900963-2471f300-b94d-11eb-86fe-30e0b493e4b0.png)
+
 
 
 
