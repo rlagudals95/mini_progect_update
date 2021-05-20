@@ -40,8 +40,11 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 
 
 ### 동작화면
+</br>
+</br>
+
++ 메인페이지
 ![image](https://user-images.githubusercontent.com/76252074/118900919-0c01d880-b94d-11eb-98c0-576f088b89ed.png)
-메인페이지
 ![image](https://user-images.githubusercontent.com/76252074/118900936-1623d700-b94d-11eb-9b90-897b05566ee1.png)
 ![image](https://user-images.githubusercontent.com/76252074/118900948-1b812180-b94d-11eb-9d2f-bd7f5753486c.png)
 ![image](https://user-images.githubusercontent.com/76252074/118900957-1e7c1200-b94d-11eb-82db-8483a53e0725.png)
