@@ -26,7 +26,18 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
   + 강미진
   + 백엔드 깃허브 주소
    https://github.com/DongHyunKIM-Hi/find_dog
-    
+
+### API설계
+#MBTI 및 chat봇 상담
+![image](https://user-images.githubusercontent.com/76252074/118901025-44091b80-b94d-11eb-94f3-bb0f51ae4ce0.png)
+
+#자랑하개 게시판
+![image](https://user-images.githubusercontent.com/76252074/118901065-597e4580-b94d-11eb-90cb-ea4926ebbfce.png)
+
+#회원가입 로그인
+![image](https://user-images.githubusercontent.com/76252074/118901080-600cbd00-b94d-11eb-8a28-6b0fa2d4acc1.png)
+
+
 
 ### 동작화면
 ![image](https://user-images.githubusercontent.com/76252074/118900919-0c01d880-b94d-11eb-98c0-576f088b89ed.png)
