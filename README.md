@@ -28,13 +28,13 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
    https://github.com/DongHyunKIM-Hi/find_dog
 
 ### API설계
-#MBTI 및 chat봇 상담
++MBTI 및 chat봇 상담
 ![image](https://user-images.githubusercontent.com/76252074/118901025-44091b80-b94d-11eb-94f3-bb0f51ae4ce0.png)
 
-#자랑하개 게시판
++자랑하개 게시판
 ![image](https://user-images.githubusercontent.com/76252074/118901065-597e4580-b94d-11eb-90cb-ea4926ebbfce.png)
 
-#회원가입 로그인
++회원가입 로그인
 ![image](https://user-images.githubusercontent.com/76252074/118901080-600cbd00-b94d-11eb-8a28-6b0fa2d4acc1.png)
 
 
