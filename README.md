@@ -28,6 +28,9 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
    https://github.com/DongHyunKIM-Hi/find_dog
     
 
+### 동작화면
+
+![Uploading image.png…]()
 
 
 
