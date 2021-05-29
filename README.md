@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 + 메인페이지
 
 ![image](https://user-images.githubusercontent.com/76252074/118900919-0c01d880-b94d-11eb-98c0-576f088b89ed.png)
+![image](https://user-images.githubusercontent.com/76252074/118900973-28057a00-b94d-11eb-95ce-94979a49db94.png)
 + MBTI검사하기
 
 
@@ -63,7 +64,7 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 
 ![image](https://user-images.githubusercontent.com/76252074/118900963-2471f300-b94d-11eb-86fe-30e0b493e4b0.png)
 
-![image](https://user-images.githubusercontent.com/76252074/118900973-28057a00-b94d-11eb-95ce-94979a49db94.png)
+
 
 
 
