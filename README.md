@@ -55,6 +55,7 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 + 검사결과(보호소에서 보호중인 검사결과 견종을 볼 수 있게 나를보개 페이지로이동)
 ![image](https://user-images.githubusercontent.com/76252074/118900957-1e7c1200-b94d-11eb-82db-8483a53e0725.png)
 + 나를보개(보호중인 유기견들)
+![image](https://user-images.githubusercontent.com/76252074/120077837-4e62ac80-c0e7-11eb-97e5-6818b7b08b6a.png)
 
 ![image](https://user-images.githubusercontent.com/76252074/118900963-2471f300-b94d-11eb-86fe-30e0b493e4b0.png)
 + 자랑하개(커뮤니티)
