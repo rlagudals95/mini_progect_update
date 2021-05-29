@@ -57,10 +57,11 @@ https://www.youtube.com/watch?v=zX-L3am3so4&t=2s
 + 나를보개(보호중인 유기견들)
 ![image](https://user-images.githubusercontent.com/76252074/120077837-4e62ac80-c0e7-11eb-97e5-6818b7b08b6a.png)
 
-![image](https://user-images.githubusercontent.com/76252074/118900963-2471f300-b94d-11eb-86fe-30e0b493e4b0.png)
 + 자랑하개(커뮤니티)
 
 ![image](https://user-images.githubusercontent.com/76252074/118900936-1623d700-b94d-11eb-9b90-897b05566ee1.png)
+
+![image](https://user-images.githubusercontent.com/76252074/118900963-2471f300-b94d-11eb-86fe-30e0b493e4b0.png)
 
 ![image](https://user-images.githubusercontent.com/76252074/118900973-28057a00-b94d-11eb-95ce-94979a49db94.png)
 
